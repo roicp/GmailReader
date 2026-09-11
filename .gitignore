@@ -427,3 +427,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Credenciais locais do GmailReader (nunca versionar)
+appsettings.Local.json
